@@ -1,0 +1,25 @@
+{
+  "name": "wonderlight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sveltose-Technologies/wonderlight.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sveltose-Technologies/wonderlight/issues"
+  },
+  "homepage": "https://github.com/Sveltose-Technologies/wonderlight#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.0",
+    "nodemon": "^2.0.8"
+  }
+}
